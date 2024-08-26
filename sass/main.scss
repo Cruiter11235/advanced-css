@@ -1,5 +1,5 @@
 /**
-TODO: course 38
+TODO: course 51
 **/
 
 // abstracts
@@ -17,8 +17,12 @@ TODO: course 38
 @import "components/composition";
 @import "components/feature-box";
 @import "components/story";
+@import "components/bg-video";
+@import "components/form";
 // layouts
+@import "layout/navigation";
 @import "layout/header";
 @import "layout/grid";
+@import "layout/footer";
 // pages
 @import "pages/home";
